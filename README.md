@@ -1,6 +1,8 @@
-# The Entrepreneurship Network
+# [The Entrepreneurship Network](https://entrepreneurshipnetwork.netlify.app/)
 
-It is the clone of the site [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/) using Reactjs.
+[Click here](https://entrepreneurshipnetwork.netlify.app/) to view this site
+
+It is the clone of the site The Entrepreneurship Network site using Reactjs.
 
 ## Installation
 
