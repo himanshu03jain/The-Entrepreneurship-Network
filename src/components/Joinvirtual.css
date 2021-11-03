@@ -1,0 +1,65 @@
+.main {
+    padding: 40px 0 5px 0 ;
+    margin: 5% 5%;
+    background: url('/images/joinbig.webp') center center/cover no-repeat ;
+    border-radius: 10px;
+  }
+
+.main > h3{
+    color: #fff;
+    font-size: 50px;
+    color: #f84c3f;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.main > h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #ffa91e;
+    text-align: center;
+    font-size: 75px;
+    margin-bottom: -10px;
+}
+
+.buttons {
+    margin: 5%;
+    text-align: center;
+}
+
+.btn-hover {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+.btn-hover.colorglow {
+    background-image: linear-gradient(to right, #ed6ea0, #ec8c69, #f7186a , #FBB03B);
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+}
